@@ -1,5 +1,5 @@
 # Udacity DAND Case Study 1 - Investigate Wine Quality Data Set
-Udacity Data Analyst Case Study 1 - Perform the entire data analysis process to investigate a dataset on wine quality. Manipulate data with NumPy, Pandas, and Matplotlib.
+Udacity Data Analyst Case Study 1 - Combine 2 datasets, manipulate data with NumPy, Pandas, and Matplotlib to investigate a dataset on wine quality.
 
 ## Description
 For this use case, analysation is performed on 2 datasets, one on red wine samples and the other on white wine samples from the north of Portugal.
