@@ -5,7 +5,7 @@ Udacity Data Analyst Case Study 1 - Combine 2 datasets, manipulate data with Num
 Analyze 2 datasets, one on red wine samples and the other on white wine samples from the north of Portugal.
 
 ### Files
-1. ```investigate_wine_quality``` contains the data analysis on the wine quality dataset.
-2. ```winequality-red``` contains red samples data.
-2. ```winequality-white``` contains white samples data.
-3.
+1. ```investigate_wine_quality.ipynb``` contains a Jupyter Notebook that analyze wine quality dataset.
+2. ```winequality-edited.csv``` contains the combined and clean sample data.
+3. ```winequality-red.csv``` contains red samples data.
+4. ```winequality-white.csv``` contains white samples data.
